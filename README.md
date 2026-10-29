@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hello, I'm Zhixin — my little universe" width="100%" />
+</p>
 
-<!--
-**zs482-cmd/zs482-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  你好，我是芷昕。<br/>
+  我喜欢把跳舞、旅行、认真吃饭的日常，还有一路上的新发现，慢慢收进自己的小宇宙。
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://my-little-universe-2026.zs482.chatgpt.site/">✦ 走进我的个人网站</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>My story is still unfolding.</sub></p>
