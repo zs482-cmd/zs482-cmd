@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Hello, I'm Zhixin</title>
+<desc id="desc">A midnight blue personal card with a red and gold book and small stars.</desc>
+<defs>
+  <linearGradient id="night" x2="1" y2="1"><stop stop-color="#102332"/><stop offset="1" stop-color="#1c3243"/></linearGradient>
+  <linearGradient id="cover" x2="1" y2="1"><stop stop-color="#a92f40"/><stop offset="1" stop-color="#721e32"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#f3e4c4" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#night)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<rect x="19" y="19" width="1162" height="282" rx="13" fill="none" stroke="#bd9a5f" stroke-opacity=".7" stroke-width="2"/>
+<path d="M80 252H830" stroke="#bd9a5f" stroke-opacity=".65" stroke-width="2"/>
+<g fill="#e9c98b">
+<path d="m90 68 3 10 10 3-10 3-3 10-3-10-10-3 10-3z"/>
+<path d="m174 50 2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
+<path d="m771 76 3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/>
+<path d="m735 229 2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
+</g>
+<text x="86" y="156" fill="#f7eddb" font-size="63" font-family="Georgia, 'Times New Roman', serif">Hello, I’m Zhixin.</text>
+<text x="90" y="207" fill="#dcc49a" font-size="23" letter-spacing="2" font-family="Arial, sans-serif">MY LITTLE UNIVERSE  ·  STORIES IN PROGRESS</text>
+<g transform="translate(904 50) rotate(8 100 108)">
+  <path d="M39 32q-15 7-15 22v151q0 16 15 21l22-10V42z" fill="#59192a" stroke="#d6ac69" stroke-width="4"/>
+  <path d="M60 42q77-12 158 3v165q-78-15-158 6z" fill="#f4e9d1" stroke="#d6ac69" stroke-width="5"/>
+  <path d="M68 40q72-16 149 0v164q-73-15-149 2z" fill="url(#cover)" stroke="#e0b96f" stroke-width="5"/>
+  <path d="M83 58q58-10 118 0v128q-61-9-118 3z" fill="none" stroke="#e8c785" stroke-width="3"/>
+  <circle cx="143" cy="113" r="30" fill="none" stroke="#e8c785" stroke-width="4"/>
+  <path d="m143 89 6 17 17 7-17 6-6 17-6-17-17-6 17-7z" fill="#e8c785"/>
+  <path d="M162 211v38l-14-10-15 10v-38" fill="#c99b60"/>
+</g>
+</svg>
